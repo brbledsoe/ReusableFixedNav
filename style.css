@@ -1,0 +1,29 @@
+
+
+nav ul{
+  background-color: red;
+  padding: 12px 0;
+  position: fixed;
+  top:0;
+  padding: 22px 28px;
+  /*VVVV FOR CENTERED NAV ElEMENTS VVVV*/
+  text-align: center;
+  /*VVVV FOR RIGHT ALIGNED NAV ELEMENTS VVV*/
+ /* text-align: right;
+  VVVV FOR LEFT ALIGNED NAV ELEMENTS NONE VVVV
+  text-align: left;*/
+
+}
+
+li{
+  display: inline-block;
+  font-weight: bold;
+}
+  
+li a{
+  text-decoration: none;
+  color: black;
+  margin: 0 28px;
+}
+
+
